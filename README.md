@@ -1,16 +1,25 @@
-# React + Vite
+# 📦 Controle de Estoque
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este é um projeto de controle de estoque desenvolvido com **React**.  
+O objetivo é permitir que usuários registrem produtos, atualizem dados e acompanhem o status do estoque.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🧾 O que é um controle de estoque?
 
-## React Compiler
+Um controle de estoque é um sistema que ajuda empresas e pessoas a organizarem seus produtos, evitando falta de mercadorias ou excesso de compras. Ele permite:
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- Registrar itens
+- Monitorar quantidades
+- Atualizar entradas e saídas
+- Visualizar o status do estoque
 
-## Expanding the ESLint configuration
+Esse tipo de sistema é muito utilizado no comércio, em e-commerces e até em pequenos negócios.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠 Tecnologias utilizadas
+
+- **React**
+- **JavaScript**
+- **CSS**
