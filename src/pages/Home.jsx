@@ -19,7 +19,7 @@ export default function Home() {
     return (
         <main>
             <h1>Dashboard</h1>
-            <div className="row">
+            <div className="row row-margin-bottom ">
                 <div className="dashboard-card">
                     Diversidade de itens
                     <span>{diversity}</span>
