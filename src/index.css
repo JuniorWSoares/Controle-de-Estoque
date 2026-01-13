@@ -37,6 +37,13 @@ header {
   justify-content: space-between;
 }
 
+footer {
+  border-top: 1px solid #37373778;
+  text-align: center;
+  font-size: .7rem;
+  color: #72727278;
+}
+
 h1, h2, h3, h4, h5, h6 {
   font-weight: 300;
 }
@@ -82,8 +89,17 @@ nav a:hover {
 
 table {
   border-collapse: collapse;
-  margin-top: 2rem;
   width: 100%;
+}
+
+.table-container {
+  max-height: 65vh;
+  overflow-y: auto;
+}
+
+.table-dashboard-container {
+  max-height: 45vh;
+  overflow-y: auto;
 }
 
 thead {
@@ -181,6 +197,10 @@ input, textarea, select {
   font-size: 1.125rem;
   margin-top: 2rem;
   padding: 1rem 2rem;
+}
+
+.dashboard-card {
+  margin-bottom: 2rem;
 }
 
 .item p {

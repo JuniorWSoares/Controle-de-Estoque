@@ -38,7 +38,7 @@ export default function Home() {
                 </div>
             </div>
             <div className="row">
-                <div className="recent">
+                <div className="recent table-dashboard-container ">
                     <table>
                         <thead>
                         <tr>
@@ -56,7 +56,7 @@ export default function Home() {
                         </tbody>
                     </table>
                 </div>
-                <div className="low">
+                <div className="low table-dashboard-container ">
                     <table>
                         <thead>
                         <tr>

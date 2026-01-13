@@ -14,7 +14,7 @@ export default function RootLayout() {
                 <Outlet />
             </div>
             <footer>
-                Feito com React e React Router! =D
+                &copy; 2026 | por Júnior Soares
             </footer>
         </>
     )
